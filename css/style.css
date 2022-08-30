@@ -10,3 +10,9 @@
 .light-blue{
     color: #47AADE;
 }
+.left-border{
+    border-left: 1px solid grey;
+}
+.text-decoration{
+    text-decoration: none;
+}
